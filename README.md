@@ -1,4 +1,5 @@
-# practicalTask1. Create spring boot rest api application.
+# practicalTask1.
+1. Create spring boot rest api application.
 2. Create Cart and Products entities with one to many relationship.
 3. Create service layer, repository layer and representational (controller) layer for both entities.
 4. Add custom exceptions.
